@@ -1,4 +1,4 @@
-# tyk-templates
+# MDCB Go client
 
 This is a Template repo for all your template needs.
 You can use it as a base tempalte to create your new repo or copy basic important files to add to your repo.
